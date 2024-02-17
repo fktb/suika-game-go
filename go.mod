@@ -1,4 +1,4 @@
-module github.com/demouth/suika-game-go
+module github.com/fktb/suika-game-go
 
 go 1.21.0
 
